@@ -1,24 +1,48 @@
-# 🧪 QA Test Techniques
+# 🧪 QA Test Analysis – Técnicas de Teste
 
-Aplicação prática de técnicas de teste de software utilizando cenários reais.
+## 📌 Sobre o projeto
+Este projeto tem como objetivo aplicar técnicas fundamentais de testes de software em cenários práticos, com foco na validação de regras de negócio.
 
-## 📌 Técnicas aplicadas
-- Partição de equivalência
-- Análise de valor limite
-- Tabela de decisão
-- Transição de estados
+Foram desenvolvidos testes baseados em diferentes abordagens de QA, utilizando exemplos estruturados para garantir a cobertura de cenários válidos, inválidos e limites do sistema.
 
-## 📄 Evidência
-O exercício completo pode ser acessado no arquivo:
-- `exercicio_tecnicas_testes.pdf`
+---
+
+## 🛠️ Técnicas aplicadas
+- Partição de Equivalência
+- Análise de Valor Limite
+- Tabela de Decisão
+- Transição de Estados
+
+---
+
+## 🧩 Cenários abordados
+- Validação de valores mínimos e máximos
+- Regras de tempo para renovação de produtos
+- Limite de itens permitidos
+- Comportamento do sistema com base em múltiplas condições
+- Fluxos de estados de usuário em sistema de rede social
+
+---
+
+## 📂 Estrutura do projeto
+- /docs → Documento contendo os exercícios e tabelas desenvolvidas
+
+---
+
+## 📊 Resultados
+Através da aplicação das técnicas, foi possível:
+- Identificar cenários válidos e inválidos
+- Garantir cobertura de valores de fronteira
+- Validar regras de negócio com múltiplas condições
+- Mapear corretamente transições de estado do sistema
+
+---
 
 ## 🎯 Objetivo
-Demonstrar conhecimento prático em modelagem de testes e análise de regras de negócio.
+Demonstrar, na prática, a aplicação das principais técnicas de teste de software, reforçando a análise lógica e a cobertura de cenários em processos de Quality Assurance.
 
-## 🛠️ Ferramentas utilizadas
-- Microsoft Word
-- Test design (técnicas de caixa preta)
+---
 
-## 👨‍💻 Autor
-Pedro Brandão  
+## 👤 Autor
+Pedro Brandão QA em formação
 LinkedIn: https://www.linkedin.com/in/pedro-brandão-/ 
